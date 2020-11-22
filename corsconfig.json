@@ -1,0 +1,9 @@
+{
+"CORSRules": [
+{
+"AllowedHeaders": ["*"],
+"AllowedMethods": ["GET"],
+"AllowedOrigins": ["*"]
+}
+]
+}
